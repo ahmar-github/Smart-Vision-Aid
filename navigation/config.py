@@ -1,0 +1,10 @@
+MAPBOX_TOKEN = "api key"
+
+GPS_MODE = "arduino"
+# GPS_MODE = "laptop"
+
+STEP_THRESHOLD = 8  # meters
+CRITICAL_OBS = 50
+OBS_THRESHOLD = 150
+
+COOLDOWN = 2
